@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit2</name>
+        <number_ref display_value="NEIT">cb98227a47fb611040359db6926d4351</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">2e7056e4f90211108c8bd16244dfe707</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 23:20:07</sys_created_on>
+        <sys_id>ffa7e27a47fb611040359db6926d436d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_ffa7e27a47fb611040359db6926d436d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 23:20:47</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9120b07bdb45dd509df22f17d4961944</instance_id>
+        <instance_name>dev130936</instance_name>
+        <name>sys_db_object_ffa7e27a47fb611040359db6926d436d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>NeedIt</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit2</name><number_ref display_value="NEIT">cb98227a47fb611040359db6926d4351</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">2e7056e4f90211108c8bd16244dfe707</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-06 23:20:07</sys_created_on><sys_id>ffa7e27a47fb611040359db6926d436d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_ffa7e27a47fb611040359db6926d436d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-06 23:20:47</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1142689427</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>462f8efa47f7611040359db6926d4341</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 23:20:47</sys_created_on>
+        <sys_id>c3982afa47fb611040359db6926d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1892d8217de0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 23:20:47</sys_updated_on>
+        <type>Table</type>
+        <update_guid>87982afa56fb6110493dbaa4eea56e86</update_guid>
+        <update_guid_history>87982afa56fb6110493dbaa4eea56e86:-1142689427,4a7862fad4fb61108bed445f0c3ca1ad:-414677175</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 23:21:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0d625d3930e34a1b92ed225a54b02599</sys_id>
+        <sys_metadata>ffa7e27a47fb611040359db6926d436d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_ffa7e27a47fb611040359db6926d436d</sys_update_name>
+        <sys_update_version display_value="sys_db_object_ffa7e27a47fb611040359db6926d436d">c3982afa47fb611040359db6926d4387</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 23:21:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
